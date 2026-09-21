@@ -44,6 +44,7 @@ A simple and user-friendly "Contact Manager web application" built using "Larave
 - Mysql
 
 Start the Laravel server
+
 php artisan serve
 
 Open the application:
