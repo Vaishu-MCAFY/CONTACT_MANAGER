@@ -38,6 +38,7 @@ A simple and user-friendly **Contact Manager web application** built using **Lar
 🛠️ Technology Used
 - Html
 - CSS
+- JavaScript
 - Php (laravel)
 - Mysql
 
