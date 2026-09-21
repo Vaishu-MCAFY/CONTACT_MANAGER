@@ -27,9 +27,9 @@ A simple and user-friendly **Contact Manager web application** built using **Lar
 👥 Contact Groups - Create groups 
  - View groups
  - Edit groups
- - Delete groups -
+ - Delete groups 
  - Assign contacts to groups
- -  View contacts belonging to a group
+ - View contacts belonging to a group
 
 🔎 Search and Filtering 
 - Search contacts by: - Name - Email - Phone - Address
