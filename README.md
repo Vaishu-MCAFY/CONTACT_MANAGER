@@ -7,11 +7,11 @@ A simple and user-friendly **Contact Manager web application** built using **Lar
 - User Login
 - User Logout 
 - Password hashing
--  Authentication-protected dashboard
+- Authentication-protected dashboard
 
 👤 Contact Management 
-- Add contacts -
-- View contact details -
+- Add contacts 
+- View contact details 
 - Edit contacts
 - Delete contacts 
 - Store name
