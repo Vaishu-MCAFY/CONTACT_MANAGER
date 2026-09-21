@@ -1,6 +1,7 @@
 # CONTACT_MANAGER
-code of contacts
-A simple and user-friendly **Contact Manager web application** built using **Laravel, PHP, MySQL, HTML, CSS, and JavaScript**. The application allows users to securely register and log in, manage contacts, organize contacts into groups, search and filter contacts, and store multiple phone numbers for each contact.
+
+
+A simple and user-friendly "Contact Manager web application" built using "Laravel, PHP, MySQL, HTML, CSS, and JavaScript". The application allows users to securely register and log in, manage contacts, organize contacts into groups, search and filter contacts, and store multiple phone numbers for each contact.
 
 🔐 Authentication 
 - User Registration
